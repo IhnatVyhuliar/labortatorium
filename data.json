@@ -1,0 +1,122 @@
+{
+    "Szpital/Przychodnia": {
+      "Trudne": {
+        "100001": "B - Immunoterapia swoista polega na podawaniu małych dawek alergenu, by organizm stopniowo się do niego przyzwyczaił.",
+        "100002": "C - Testy skórne punktowe są najczęściej stosowane, bo są szybkie, tanie i skuteczne.",
+        "100003": "B - Pozytywny wynik testu skórnego objawia się jako grudka i zaczerwienienie o określonej wielkości.",
+        "100004": "C - Przeziębienie może zafałszować wynik testów alergicznych, dlatego są wówczas przeciwwskazane.",
+        "100005": "C - Próg kliniczny oznacza, że objawy występują nawet przy niewielkiej ilości alergenu.",
+        "100006": "C - Pełna immunoterapia trwa zwykle od 3 do 5 lat, aby uzyskać trwały efekt.",
+        "100007": "C - Pacjent powinien pozostać w przychodni po odczulaniu, by monitorować możliwe reakcje.",
+        "100008": "B - EpiPen to jednorazowy autoaplikator adrenaliny, gotowy do użycia w sytuacji nagłej.",
+        "100009": "A - Najgroźniejsze reakcje po odczulaniu występują w ciągu 30 minut od podania zastrzyku.",
+        "100010": "D - Antybiotyki nie są standardowym leczeniem alergii, bo nie działają na reakcje uczuleniowe.",
+        "100011": "C - Każdy pacjent ma prawo wglądu do swoich wyników medycznych, w tym alergicznych.",
+        "100012": "C - Pojawienie się duszności po immunoterapii to sygnał alarmowy wymagający natychmiastowej reakcji.",
+        "100013": "B - Poważne schorzenia, jak ciężka astma lub nowotwór, mogą wykluczać odczulanie.",
+        "100014": "A - Rzadko, ale możliwe są reakcje uczuleniowe nawet na leki przeciwalergiczne.",
+        "100015": "C - Adrenalina jest podstawowym lekiem ratującym życie w sytuacji wstrząsu anafilaktycznego.",
+        "100016": "B - Test prowokacji polega na podawaniu alergenu doustnie pod kontrolą medyczną.",
+        "100017": "B - Leki przeciwhistaminowe należy odstawić przed testami, by nie zaburzyły wyników.",
+        "100018": "B - Wieloczynnikowa etiologia oznacza, że alergia powstaje na skutek różnych, nakładających się przyczyn.",
+        "100019": "B - Odczulanie nie jest rozpoczynane w czasie ciąży, bo wiąże się z ryzykiem silnej reakcji.",
+        "100020": "B - Plan anafilaksji powinien zawierać konkretne kroki postępowania i informacje o lekach."
+      },
+      "Proste": {
+        "100021": "C - EpiPen ratuje życie poprzez szybkie podanie adrenaliny w razie wstrząsu.",
+        "100022": "B - Odczulanie to leczenie, które pomaga organizmowi oswoić się z alergenem.",
+        "100023": "B - Testy alergiczne wykonuje się w placówkach medycznych, nie w miejscach publicznych.",
+        "100024": "B - Alergolog to lekarz specjalista pomagający osobom z alergiami.",
+        "100025": "C - Test skórny polega na niewielkim nakłuciu i obserwacji reakcji na skórze.",
+        "100026": "B - Po zastrzyku odczulającym należy pozostać 30 minut w przychodni w razie reakcji uczuleniowej.",
+        "100027": "B - Objawy wstrząsu mogą być bardzo groźne i wymagają natychmiastowej pomocy.",
+        "100028": "B - Informowanie lekarza o uczuleniu na leki pozwala uniknąć poważnych powikłań.",
+        "100029": "B - Strach przed zastrzykiem to normalna rzecz – warto o nim porozmawiać z lekarzem.",
+        "100030": "C - Apteczka alergika powinna zawierać leki ratujące życie i dane kontaktowe w razie zagrożenia.",
+        "100031": "C - Duszność, wysypka i obrzęk to objawy, które powinno się natychmiast zgłosić lekarzowi.",
+        "100032": "B - Choroba może zaburzyć wynik testów, dlatego wtedy się ich nie wykonuje.",
+        "100033": "C - Znajomość swoich alergii jest kluczowa, by uniknąć podania niebezpiecznych leków.",
+        "100034": "B - W sytuacji nagłej każda osoba umiejąca używać EpiPena może pomóc.",
+        "100035": "B - Alergia może prowadzić do zagrażających życiu reakcji i dlatego nie wolno jej bagatelizować."
+      }
+    },
+    "Wyjazd wakacyjny": {
+      "Trudne": {
+        "100036": "C - Alergik powinien mieć przy sobie dokumentację medyczną i plan awaryjny w języku angielskim.",
+        "100037": "B - W krajach tropikalnych inne alergeny mogą wywoływać nietypowe objawy.",
+        "100038": "A - Niektóre kraje wymagają pisemnego zaświadczenia, aby wwieźć adrenalinę w autostrzykawce.",
+        "100039": "B - Klimatyzacja w hotelach może rozprzestrzeniać alergeny roztoczy i pleśni.",
+        "100040": "B - Zmiana klimatu może wpływać na intensywność objawów alergii sezonowej.",
+        "100041": "C - Dobrze przygotowana apteczka zawiera nie tylko leki, ale też informację o uczuleniach.",
+        "100042": "C - W samolocie może dojść do reakcji alergicznej – linie lotnicze nie zawsze gwarantują środowisko wolne od alergenów.",
+        "100043": "C - Ubezpieczenie zdrowotne dla alergika za granicą powinno pokrywać koszty leczenia anafilaksji.",
+        "100044": "B - Nie każda klinika wakacyjna ma leki ratujące życie – warto to wcześniej sprawdzić.",
+        "100045": "C - Alergik powinien poinformować przewoźnika o swoich potrzebach medycznych z wyprzedzeniem."
+      },
+      "Proste": {
+        "100046": "B - Alergik powinien zabrać wszystkie potrzebne leki na wakacje.",
+        "100047": "B - Słońce może nasilać objawy niektórych alergii skórnych.",
+        "100048": "B - W obcym kraju trzeba wiedzieć, jak powiedzieć „mam alergię” w lokalnym języku.",
+        "100049": "B - W podróży warto mieć apteczkę z lekami przeciwalergicznymi.",
+        "100050": "C - Leki powinno się trzymać w bagażu podręcznym, nie w walizce nadawanej.",
+        "100051": "C - Alergik powinien wiedzieć, gdzie w pobliżu jest najbliższa apteka.",
+        "100052": "B - Zmiana klimatu i roślinności może wywołać objawy alergii.",
+        "100053": "C - Niektóre kraje mają inne zasady przewożenia leków – warto to sprawdzić.",
+        "100054": "B - Na plaży może uczulić nie tylko słońce, ale i krem z filtrem.",
+        "100055": "C - Alergik może korzystać z wakacji, jeśli dobrze się przygotuje."
+      }
+    },
+    "Impreza u znajomego": {
+      "Trudne": {
+        "100056": "C - Gość z alergią pokarmową powinien wcześniej zapytać o składniki potraw.",
+        "100057": "B - Kontakt z sierścią zwierząt może wywołać silną reakcję alergiczną.",
+        "100058": "B - Nawet śladowe ilości orzeszków mogą być groźne dla uczulonego.",
+        "100059": "C - Dym z kadzidełek lub papierosów może zaostrzyć objawy alergii.",
+        "100060": "B - Alergik powinien mieć przy sobie leki nawet na krótkie spotkanie.",
+        "100061": "C - Przypadkowe użycie perfum może wywołać reakcję u osób wrażliwych.",
+        "100062": "B - Goście powinni uszanować prośby alergika dotyczące jedzenia lub otoczenia.",
+        "100063": "C - Dekoracje zawierające lateks (np. balony) mogą być zagrożeniem.",
+        "100064": "B - Napoje mogą zawierać alergeny, np. białka mleka w koktajlach.",
+        "100065": "C - Gość powinien wiedzieć, jak udzielić pierwszej pomocy w przypadku wstrząsu anafilaktycznego."
+      },
+      "Proste": {
+        "100066": "C - Alergik powinien powiedzieć gospodarzowi o swoich uczuleniach.",
+        "100067": "B - Lepiej nie jeść niczego, czego składu się nie zna.",
+        "100068": "B - Warto mieć przy sobie tabletki przeciwalergiczne.",
+        "100069": "B - Zwierzęta domowe mogą uczulać.",
+        "100070": "C - Przyjaciele powinni dbać o bezpieczeństwo alergika.",
+        "100071": "B - Czasem uczula zapach świec zapachowych.",
+        "100072": "B - Można dobrze się bawić, nawet jeśli jest się uczulonym.",
+        "100073": "C - Alergik powinien nosić przy sobie informację o swoich uczuleniach.",
+        "100074": "C - W razie potrzeby należy natychmiast wezwać pomoc.",
+        "100075": "C - Dobry przyjaciel nie częstuje alergenami."
+      }
+    },
+    "Wieś": {
+      "Trudne": {
+        "100076": "C - Pyłki traw i zbóż to jedne z najczęstszych wiejskich alergenów.",
+        "100077": "B - Kontakt z sierścią zwierząt gospodarskich może powodować reakcje alergiczne.",
+        "100078": "B - Stare stodoły i piwnice mogą zawierać zarodniki pleśni.",
+        "100079": "C - Ukąszenie owada może być bardzo niebezpieczne dla uczulonego.",
+        "100080": "C - Nawóz naturalny może zawierać alergeny i podrażniać układ oddechowy.",
+        "100081": "C - Alergik powinien unikać koszenia trawy i wdychania pyłków.",
+        "100082": "B - Kontakt z kurzem i roztoczami ze słomy może powodować kichanie i duszność.",
+        "100083": "B - Rękawiczki i maseczka mogą pomóc w ograniczeniu kontaktu z alergenami.",
+        "100084": "B - W letnich miesiącach stężenie alergenów na wsi może być wyższe niż w mieście.",
+        "100085": "C - Szczepionka przeciwko jadowi owadów może uratować życie alergikowi."
+      },
+      "Proste": {
+        "100086": "B - Na wsi jest dużo pyłków, które mogą uczulać.",
+        "100087": "B - Alergik powinien mieć ze sobą leki także na wakacjach na wsi.",
+        "100088": "C - Trzeba uważać na użądlenia pszczół i os.",
+        "100089": "B - Zwierzęta gospodarskie mogą uczulać tak samo jak domowe.",
+        "100090": "B - Alergik nie powinien spać na sianie.",
+        "100091": "C - Dobrze mieć przy sobie maseczkę przeciwpyłkową.",
+        "100092": "C - Nawet zioła mogą uczulać.",
+        "100093": "B - Kurz w stodole może wywołać duszność.",
+        "100094": "C - Na wsi też trzeba pamiętać o lekach.",
+        "100095": "C - Przy dobrej organizacji alergik może cieszyć się pobytem na wsi."
+      }
+    }
+  }
+  
